@@ -2,11 +2,11 @@
 Atualmente estou cursando a faculdade de Ciências da Computação<br>
 Meu objetivo é crescer profissionalmente na área da programação<br>
 
-<a href="https://github.com/foulhunter/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=foulhunter&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/kleytonl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kleytonl&show_icons=true&theme=tokyonight"/>
 </a>
-<a href="https://github.com/foulhunter/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foulhunter&theme=tokyonight" />
+<a href="https://github.com/kleytonl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonl&theme=tokyonight" />
 </a>
 
 <h3 align="center">Linguagens | Ferramentas</h3>
@@ -27,4 +27,3 @@ Meu objetivo é crescer profissionalmente na área da programação<br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
-
