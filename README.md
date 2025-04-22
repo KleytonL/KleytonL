@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Kleyton!
-Atualmente estou cursando a faculdade de Ciências da Computação<br>
-Meu objetivo é crescer profissionalmente na área da programação<br>
+Atualmente estou cursando a faculdade de Ciências da Computação no Centro Universitário Filadélfia - Unifil<br>
+Meu objetivo é aprimorar minhas habilidades técnicas, pessoais e interpessoais, além de crescer profissionalmente na área da programação<br>
 
-<a href="https://github.com/kleytonl/github-readme-stats">
+<a href="https://github.com/kleytonl/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kleytonl&show_icons=true&theme=tokyonight"/>
 </a>
-<a href="https://github.com/kleytonl/github-readme-stats">
+<a href="https://github.com/kleytonl/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonl&theme=tokyonight" />
 </a>
 
