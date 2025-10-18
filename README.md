@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kleyton!
-Atualmente estou cursando a faculdade de Ciências da Computação no Centro Universitário Filadélfia - Unifil<br>
-Meu objetivo é aprimorar minhas habilidades técnicas, pessoais e interpessoais, além de crescer profissionalmente na área da programação<br>
+Atualmente estou cursando a faculdade de Ciências da Computação no Centro Universitário Filadélfia - UniFil!<br>
+Meu objetivo é aprimorar minhas habilidades técnicas, pessoais e interpessoais, além de crescer profissionalmente na área da programação.<br>
 
 <a href="https://github.com/kleytonl/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kleytonl&show_icons=true&theme=tokyonight"/>
@@ -11,6 +11,9 @@ Meu objetivo é aprimorar minhas habilidades técnicas, pessoais e interpessoais
 
 <h3 align="center">Linguagens | Ferramentas</h3>
 <p align="center">
+  <a href="https://godotengine.org/pt-br/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="git" width="40" height="40" />
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
@@ -25,5 +28,11 @@ Meu objetivo é aprimorar minhas habilidades técnicas, pessoais e interpessoais
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"  alt="git" width="40" height="40"/>
+  </a>
 </p>
